@@ -1,4 +1,4 @@
-# Girl-s-Frontline-Speeches-for-DST
+# Girls-Frontline-Speeches-for-DST
 内置人形们的台词  
   
 **##编辑注意事项**  
