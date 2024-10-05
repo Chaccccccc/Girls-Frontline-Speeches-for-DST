@@ -5159,20 +5159,20 @@ return
 	DESCRIBE_TOODARK = "太黑了，什么也看不见！",		--天太黑
 	DESCRIBE_SMOLDERING = "那东西快要着火了。",		--冒烟
 
-	DESCRIBE_PLANTHAPPY = "多么快乐的植物啊!",		--作物压力值低
-	DESCRIBE_PLANTVERYSTRESSED = "这株植物似乎承受了很大的压力。",		--作物压力值高
-	DESCRIBE_PLANTSTRESSED = "它有点暴躁。",		--作物压力值中等
-	DESCRIBE_PLANTSTRESSORKILLJOYS = "我可能要除一下草……",		--作物周围有杂草
-	DESCRIBE_PLANTSTRESSORFAMILY = "我的科学结论是这株植物很孤独。",		--作物未形成家族
-	DESCRIBE_PLANTSTRESSOROVERCROWDING = "植物太多，地方太小。",		--作物太挤
-	DESCRIBE_PLANTSTRESSORSEASON = "这个季节对这株植物并不友好。",		--作物不适合当前季节
-	DESCRIBE_PLANTSTRESSORMOISTURE = "看起来有点脱水。",		--作物缺水
-	DESCRIBE_PLANTSTRESSORNUTRIENTS = "这颗可怜的植物需要营养!",		--作物缺肥料
-	DESCRIBE_PLANTSTRESSORHAPPINESS = "它想找人好好聊聊。",		--作物需要交流
+	DESCRIBE_PLANTHAPPY = "生长情况，良好。",		--作物压力值低+
+	DESCRIBE_PLANTVERYSTRESSED = "生长情况，较差。",		--作物压力值高+
+	DESCRIBE_PLANTSTRESSED = "生长情况，一般。",		--作物压力值中等+
+	DESCRIBE_PLANTSTRESSORKILLJOYS = "很明显，该除草了。",		--作物周围有杂草+
+	DESCRIBE_PLANTSTRESSORFAMILY = "搞什么，我可没听说作物还有这种需求。",		--作物未形成家族+
+	DESCRIBE_PLANTSTRESSOROVERCROWDING = "种植密度不合理。",		--作物太挤+
+	DESCRIBE_PLANTSTRESSORSEASON = "季节不合适吗，这可没办法补救了。",		--作物不适合当前季节+
+	DESCRIBE_PLANTSTRESSORMOISTURE = "和我想得一样，该浇水了。",		--作物缺水+
+	DESCRIBE_PLANTSTRESSORNUTRIENTS = "嗯，该去找一些肥料了。",		--作物缺肥料+
+	DESCRIBE_PLANTSTRESSORHAPPINESS = "他需要聊天，等等，这里不是有这么多植物吗？",		--作物需要交流+
 
 	EAT_FOOD =
 	{
-		TALLBIRDEGG_CRACKED = "嗯，鸟嘴。",		--吃孵化的高脚鸟蛋
-		WINTERSFEASTFUEL = "它尝起来是节日的味道。",		--吃节日欢愉
+		TALLBIRDEGG_CRACKED = "还没熟呢。",		--吃孵化的高脚鸟蛋+
+		WINTERSFEASTFUEL = "我为什么要吃这个。",		--吃节日欢愉+
 	},
 }
