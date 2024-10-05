@@ -5148,16 +5148,16 @@ return
 		SCRAP_MONOCLEHAT = "有没有让我看起来更尊贵一点？",	--物品名:"地平线扩展器"
 		SCRAPHAT = "帽尖几乎和我的头脑一样的……锐利！",	--物品名:"拾荒尖帽"
 
-		FENCE_JUNK = "丑虽丑，不过我不介意。",	--物品名:"垃圾栅栏"
-		JUNK_PILE = "要翻垃圾堆？我绝对不会拒绝。",	--物品名:"垃圾堆"
-		JUNK_PILE_BIG = "随时可能倒塌。",	--物品名:"摇摇欲坠的垃圾堆"
+		FENCE_JUNK = "垃圾做的栅栏，是SOP做的吗？",	--物品名:"垃圾栅栏"+
+		JUNK_PILE = "要是sop在这早就开始撒欢了。",	--物品名:"垃圾堆"+
+		JUNK_PILE_BIG = "说不定里面就埋着一只狗。",	--物品名:"摇摇欲坠的垃圾堆"+
 
-		ARMOR_LUNARPLANT_HUSK = "它会给你身上扎根刺。",	--物品名:"荆棘茄甲" 制造描述:"这次下次，浑身带刺。"
+		ARMOR_LUNARPLANT_HUSK = "还是不要被打中更好一些。",	--物品名:"荆棘茄甲" 制造描述:"这次下次，浑身带刺。"+
 	},
 
-	DESCRIBE_GENERIC = "这是某种...东西。",		--检查物品描述的缺省值
-	DESCRIBE_TOODARK = "太黑了，什么也看不见！",		--天太黑
-	DESCRIBE_SMOLDERING = "那东西快要着火了。",		--冒烟
+	DESCRIBE_GENERIC = "那是...什么？。",		--检查物品描述的缺省值+
+	DESCRIBE_TOODARK = "保持警惕！该死，我的夜视仪呢？",		--天太黑+
+	DESCRIBE_SMOLDERING = "快要着火了。",		--冒烟+
 
 	DESCRIBE_PLANTHAPPY = "生长情况，良好。",		--作物压力值低+
 	DESCRIBE_PLANTVERYSTRESSED = "生长情况，较差。",		--作物压力值高+
