@@ -5089,11 +5089,11 @@ return
 		BATTLESONG_SHADOWALIGNED = "戏剧让我坐立不安。",	--物品名:"黑暗悲歌" 制造描述:"减少自身和盟友受到暗影攻击的伤害，增加对月亮阵营敌人的伤害。"
 		BATTLESONG_LUNARALIGNED = "戏剧让我坐立不安。",	--物品名:"启迪摇篮曲" 制造描述:"减少自身和盟友受到月亮攻击的伤害，增加对暗影阵营敌人的伤害。"
 
-		SHARKBOI = "吓得我一哆嗦！",	--物品名:"大霜鲨"
-		BOOTLEG = "远方的远方，有个海盗丢了靴子。",	--物品名:"出逃腿靴"
-		OCEANWHIRLPORTAL = "涡来漩一下。",	--物品名:"漩涡传送门"
+		SHARKBOI = "SOP肯定是把它的鼻子看成嘴了才会说它可爱。",	--物品名:"大霜鲨"+
+		BOOTLEG = "这骨头怎么留在鞋子里的？",	--物品名:"出逃腿靴"+
+		OCEANWHIRLPORTAL = "起码比虫的肚子要好。",	--物品名:"漩涡传送门"+
 
-		EMBERLIGHT = "不用燃料的火焰？不要紧。",	--物品名:"火球术"
+		EMBERLIGHT = "看来不需要那个魔杖了。",	--物品名:"火球术"+
 		WILLOW_EMBER = "only_used_by_willow",	--物品名:"余烬"
 
 		-- Year of the Dragon
@@ -5135,18 +5135,18 @@ return
 
 		-- Rifts / Meta QoL
 
-		HEALINGSALVE_ACID = "这个能解决不少问题。",	--物品名:"黏糊糊的药膏" 制造描述:"杀不死你的东西会让你变得更强大。"
+		HEALINGSALVE_ACID = "把你的手从我脸上拿开，SOP！我自己就能涂。",	--物品名:"黏糊糊的药膏" 制造描述:"杀不死你的东西会让你变得更强大。"+
 
-		BEESWAX_SPRAY = "我是闻到甲醛了吗？",	--物品名:"防腐喷雾" 制造描述:"坚如磐石地守护植物的生命。"
-		WAXED_PLANT = "它被冻结在了恐惧中！", -- Used for all waxed plants, from farm plants to trees.		--物品名:"防腐喷雾"
+		BEESWAX_SPRAY = "加了点...猛料的防腐剂。",	--物品名:"防腐喷雾" 制造描述:"坚如磐石地守护植物的生命。"+
+		WAXED_PLANT = "看得出来，效果不错。", -- Used for all waxed plants, from farm plants to trees.		--物品名:"防腐喷雾"+
 
 		STORAGE_ROBOT = {
-			GENERIC = "咱们别太自满了。",	--物品名:"瓦器人"->默认
-			BROKEN = "它坏掉了。",	--物品名:"瓦器人"->损坏
+			GENERIC = "还挺像巡游者的。",	--物品名:"瓦器人"->默认+
+			BROKEN = "要是SOP在这它肯定坏不了。",	--物品名:"瓦器人"->损坏+
 		},
 
-		SCRAP_MONOCLEHAT = "有没有让我看起来更尊贵一点？",	--物品名:"地平线扩展器"
-		SCRAPHAT = "帽尖几乎和我的头脑一样的……锐利！",	--物品名:"拾荒尖帽"
+		SCRAP_MONOCLEHAT = "可以充当望远镜，效果也还行。",	--物品名:"地平线扩展器"+
+		SCRAPHAT = "呵，只是用来防垃圾的。",	--物品名:"拾荒尖帽"+
 
 		FENCE_JUNK = "垃圾做的栅栏，是SOP做的吗？",	--物品名:"垃圾栅栏"+
 		JUNK_PILE = "要是sop在这早就开始撒欢了。",	--物品名:"垃圾堆"+
